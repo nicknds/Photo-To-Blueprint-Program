@@ -301,8 +301,12 @@ namespace Photo_To_Blueprint
 
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
-            labelResize.Text = $"Resize Percentage: {(((double)trackBar1.Value / (double)trackBar1.Maximum) * 100.0).ToString("N1")}%";
-            UpdateImageStats();
+            if (ImageGood())
+            {
+                labelResize.Text = $"Resize Percentage: {(((double)trackBar1.Value / (double)trackBar1.Maximum) * 100.0).ToString("N1")}%";
+                UpdateImageStats();
+            }
+            else trackBar1.Value = trackBar1.Maximum;
         }
 
         private void button3_Click(object sender, EventArgs e)
