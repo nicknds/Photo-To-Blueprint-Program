@@ -1,0 +1,8 @@
+K:\repos\Photo To Blueprint\Photo To Blueprint\bin\Release\Photo To Blueprint.exe.config
+K:\repos\Photo To Blueprint\Photo To Blueprint\bin\Release\Photo To Blueprint.exe
+K:\repos\Photo To Blueprint\Photo To Blueprint\bin\Release\Photo To Blueprint.pdb
+K:\repos\Photo To Blueprint\Photo To Blueprint\obj\Release\Photo_To_Blueprint.Form1.resources
+K:\repos\Photo To Blueprint\Photo To Blueprint\obj\Release\Photo_To_Blueprint.Properties.Resources.resources
+K:\repos\Photo To Blueprint\Photo To Blueprint\obj\Release\Photo To Blueprint.csproj.GenerateResource.cache
+K:\repos\Photo To Blueprint\Photo To Blueprint\obj\Release\Photo To Blueprint.exe
+K:\repos\Photo To Blueprint\Photo To Blueprint\obj\Release\Photo To Blueprint.pdb
